@@ -1,3 +1,3 @@
 #Hello
 
-This is a test of my new repositori.
+This is a test of my new repository.
